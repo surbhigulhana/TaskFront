@@ -1,0 +1,17 @@
+.card{
+  margin-left: 400px;
+  margin-top: 30px;
+  background-color: coral;
+  width: 40%;
+  height: 200px;
+  border-radius: 20px;
+}
+.card h1{
+  text-align: center;
+}
+.card button{
+  text-align: center;
+}
+.btn {
+margin-left: 200px;
+}
